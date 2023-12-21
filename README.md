@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**kpl1/kpl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Kevin Caplain, and I'm a QA Engineer. 
 
-Here are some ideas to get you started:
+I am interested in agile testing and I like to play with Test Automation Frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥐 Location: France
+- 🌱 I’m currently learning <img width="18px" src="https://miro.medium.com/max/400/1*9L9CKODdyyGiX1iAwwtdYg.png" alt="Playwright logo"/> [Playwright](https://playwrigh)
+- ⚡ I have played with: [Testcafe](https://testcafe.io/), [Nightwatchjs](https://nightwatchjs.org/), [WebdriverIO](https://webdriver.io/) and my favorite [Cypress](https://www.cypress.io/).
+- 💬 Ask me about food, or the best place to [eat in Paris](https://www.google.com/maps/d/edit?mid=1ZAS5eHh9vvMY88QE3eSaqTS7JIqL4wE&ll=48.85682379079273%2C2.328863200000022&z=14)
+
+## Find me
+- 📫 [Linkedin](https://www.linkedin.com/in/kevincaplain/)
+
