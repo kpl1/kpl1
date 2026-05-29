@@ -1,4 +1,6 @@
-# Hello 👋 I'm Kevin Caplain, and I'm a QA Engineer. 
+# Hello 👋
+
+I'm Kevin Caplain, and I'm a QA Engineer.
 
 ## Intro
 
